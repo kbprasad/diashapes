@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diashapes - dip6</name>
+  <icon>dip6.png</icon>
+  <connections>
+    <point x="11" y="6"/>
+    <point x="15" y="13"/>
+    <point x="11" y="13"/>
+    <point x="11" y="9.5"/>
+    <point x="15" y="6"/>
+    <point x="15" y="9.5"/>
+    <point x="13" y="13"/>
+    <point x="13" y="6"/>
+    <point x="15" y="7"/>
+    <point x="15" y="7"/>
+    <point x="16" y="7"/>
+    <point x="16" y="8"/>
+    <point x="15" y="8"/>
+    <point x="15" y="7"/>
+    <point x="15.5" y="7"/>
+    <point x="16" y="7.5"/>
+    <point x="15.5" y="8"/>
+    <point x="11" y="7"/>
+    <point x="11" y="7"/>
+    <point x="10" y="7"/>
+    <point x="10" y="8"/>
+    <point x="11" y="8"/>
+    <point x="11" y="7"/>
+    <point x="10.5" y="7"/>
+    <point x="10" y="7.5"/>
+    <point x="10.5" y="8"/>
+    <point x="11" y="9"/>
+    <point x="11" y="9"/>
+    <point x="10" y="9"/>
+    <point x="10" y="10"/>
+    <point x="11" y="10"/>
+    <point x="11" y="9"/>
+    <point x="10.5" y="9"/>
+    <point x="10" y="9.5"/>
+    <point x="10.5" y="10"/>
+    <point x="11" y="11"/>
+    <point x="11" y="11"/>
+    <point x="10" y="11"/>
+    <point x="10" y="12"/>
+    <point x="11" y="12"/>
+    <point x="11" y="11"/>
+    <point x="10.5" y="11"/>
+    <point x="10" y="11.5"/>
+    <point x="10.5" y="12"/>
+    <point x="15" y="9"/>
+    <point x="15" y="9"/>
+    <point x="16" y="9"/>
+    <point x="16" y="10"/>
+    <point x="15" y="10"/>
+    <point x="15" y="9"/>
+    <point x="15.5" y="9"/>
+    <point x="16" y="9.5"/>
+    <point x="15.5" y="10"/>
+    <point x="15" y="11"/>
+    <point x="15" y="11"/>
+    <point x="16" y="11"/>
+    <point x="16" y="12"/>
+    <point x="15" y="12"/>
+    <point x="15" y="11"/>
+    <point x="15.5" y="11"/>
+    <point x="16" y="11.5"/>
+    <point x="15.5" y="12"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="11" y="6" width="4" height="7"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="11" y="6" width="4" height="7"/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="15,7 15,7 16,7 16,8 15,8 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="11,7 11,7 10,7 10,8 11,8 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="11,9 11,9 10,9 10,10 11,10 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="11,11 11,11 10,11 10,12 11,12 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="15,9 15,9 16,9 16,10 15,10 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="15,11 15,11 16,11 16,12 15,12 "/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 12.5,6 A 0.5,0.5 0 1 0 13.5,6"/>
+  </svg:svg>
+</shape>

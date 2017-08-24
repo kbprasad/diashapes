@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diashapes - dip16</name>
+  <icon>dip16.png</icon>
+  <connections>
+    <point x="6" y="2"/>
+    <point x="12" y="19"/>
+    <point x="6" y="19"/>
+    <point x="6" y="10.5"/>
+    <point x="12" y="2"/>
+    <point x="12" y="10.5"/>
+    <point x="9" y="19"/>
+    <point x="9" y="2"/>
+    <point x="12" y="3"/>
+    <point x="12" y="3"/>
+    <point x="13" y="3"/>
+    <point x="13" y="4"/>
+    <point x="12" y="4"/>
+    <point x="12" y="3"/>
+    <point x="12.5" y="3"/>
+    <point x="13" y="3.5"/>
+    <point x="12.5" y="4"/>
+    <point x="12" y="11"/>
+    <point x="12" y="11"/>
+    <point x="13" y="11"/>
+    <point x="13" y="12"/>
+    <point x="12" y="12"/>
+    <point x="12" y="11"/>
+    <point x="12.5" y="11"/>
+    <point x="13" y="11.5"/>
+    <point x="12.5" y="12"/>
+    <point x="12" y="5"/>
+    <point x="12" y="5"/>
+    <point x="13" y="5"/>
+    <point x="13" y="6"/>
+    <point x="12" y="6"/>
+    <point x="12" y="5"/>
+    <point x="12.5" y="5"/>
+    <point x="13" y="5.5"/>
+    <point x="12.5" y="6"/>
+    <point x="12" y="7"/>
+    <point x="12" y="7"/>
+    <point x="13" y="7"/>
+    <point x="13" y="8"/>
+    <point x="12" y="8"/>
+    <point x="12" y="7"/>
+    <point x="12.5" y="7"/>
+    <point x="13" y="7.5"/>
+    <point x="12.5" y="8"/>
+    <point x="12" y="9"/>
+    <point x="12" y="9"/>
+    <point x="13" y="9"/>
+    <point x="13" y="10"/>
+    <point x="12" y="10"/>
+    <point x="12" y="9"/>
+    <point x="12.5" y="9"/>
+    <point x="13" y="9.5"/>
+    <point x="12.5" y="10"/>
+    <point x="12" y="13"/>
+    <point x="12" y="13"/>
+    <point x="13" y="13"/>
+    <point x="13" y="14"/>
+    <point x="12" y="14"/>
+    <point x="12" y="13"/>
+    <point x="12.5" y="13"/>
+    <point x="13" y="13.5"/>
+    <point x="12.5" y="14"/>
+    <point x="12" y="15"/>
+    <point x="12" y="15"/>
+    <point x="13" y="15"/>
+    <point x="13" y="16"/>
+    <point x="12" y="16"/>
+    <point x="12" y="15"/>
+    <point x="12.5" y="15"/>
+    <point x="13" y="15.5"/>
+    <point x="12.5" y="16"/>
+    <point x="6" y="3"/>
+    <point x="6" y="3"/>
+    <point x="5" y="3"/>
+    <point x="5" y="4"/>
+    <point x="6" y="4"/>
+    <point x="6" y="3"/>
+    <point x="5.5" y="3"/>
+    <point x="5" y="3.5"/>
+    <point x="5.5" y="4"/>
+    <point x="6" y="5"/>
+    <point x="6" y="5"/>
+    <point x="5" y="5"/>
+    <point x="5" y="6"/>
+    <point x="6" y="6"/>
+    <point x="6" y="5"/>
+    <point x="5.5" y="5"/>
+    <point x="5" y="5.5"/>
+    <point x="5.5" y="6"/>
+    <point x="6" y="7"/>
+    <point x="6" y="7"/>
+    <point x="5" y="7"/>
+    <point x="5" y="8"/>
+    <point x="6" y="8"/>
+    <point x="6" y="7"/>
+    <point x="5.5" y="7"/>
+    <point x="5" y="7.5"/>
+    <point x="5.5" y="8"/>
+    <point x="6" y="9"/>
+    <point x="6" y="9"/>
+    <point x="5" y="9"/>
+    <point x="5" y="10"/>
+    <point x="6" y="10"/>
+    <point x="6" y="9"/>
+    <point x="5.5" y="9"/>
+    <point x="5" y="9.5"/>
+    <point x="5.5" y="10"/>
+    <point x="6" y="11"/>
+    <point x="6" y="11"/>
+    <point x="5" y="11"/>
+    <point x="5" y="12"/>
+    <point x="6" y="12"/>
+    <point x="6" y="11"/>
+    <point x="5.5" y="11"/>
+    <point x="5" y="11.5"/>
+    <point x="5.5" y="12"/>
+    <point x="6" y="13"/>
+    <point x="6" y="13"/>
+    <point x="5" y="13"/>
+    <point x="5" y="14"/>
+    <point x="6" y="14"/>
+    <point x="6" y="13"/>
+    <point x="5.5" y="13"/>
+    <point x="5" y="13.5"/>
+    <point x="5.5" y="14"/>
+    <point x="6" y="15"/>
+    <point x="6" y="15"/>
+    <point x="5" y="15"/>
+    <point x="5" y="16"/>
+    <point x="6" y="16"/>
+    <point x="6" y="15"/>
+    <point x="5.5" y="15"/>
+    <point x="5" y="15.5"/>
+    <point x="5.5" y="16"/>
+    <point x="12" y="17"/>
+    <point x="12" y="17"/>
+    <point x="13" y="17"/>
+    <point x="13" y="18"/>
+    <point x="12" y="18"/>
+    <point x="12" y="17"/>
+    <point x="12.5" y="17"/>
+    <point x="13" y="17.5"/>
+    <point x="12.5" y="18"/>
+    <point x="6" y="17"/>
+    <point x="6" y="17"/>
+    <point x="5" y="17"/>
+    <point x="5" y="18"/>
+    <point x="6" y="18"/>
+    <point x="6" y="17"/>
+    <point x="5.5" y="17"/>
+    <point x="5" y="17.5"/>
+    <point x="5.5" y="18"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="6" y="2" width="6" height="17"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="6" y="2" width="6" height="17"/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="12,3 12,3 13,3 13,4 12,4 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="12,11 12,11 13,11 13,12 12,12 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="12,5 12,5 13,5 13,6 12,6 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="12,7 12,7 13,7 13,8 12,8 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="12,9 12,9 13,9 13,10 12,10 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="12,13 12,13 13,13 13,14 12,14 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="12,15 12,15 13,15 13,16 12,16 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="6,3 6,3 5,3 5,4 6,4 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="6,5 6,5 5,5 5,6 6,6 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="6,7 6,7 5,7 5,8 6,8 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="6,9 6,9 5,9 5,10 6,10 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="6,11 6,11 5,11 5,12 6,12 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="6,13 6,13 5,13 5,14 6,14 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="6,15 6,15 5,15 5,16 6,16 "/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 8,2 A 1,1 0 1 0 10,2"/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="12,17 12,17 13,17 13,18 12,18 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="6,17 6,17 5,17 5,18 6,18 "/>
+  </svg:svg>
+</shape>
